@@ -54,7 +54,6 @@ progress_precentage = 0
 convert_only = False
 merge = False
 default_message = ("DEBUG INFORMATION WINDOW\n" 
-"Note: If you still see unwanted file extensions click and the Merge option a few times that should run a filter on the results \n" 
 "PDF Utilities 1.0\n" 
 "- Auto Convert to PDF before splitting\n" 
 "- Can be used to convert only (select convert to PDF only).\n" 
