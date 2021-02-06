@@ -7,7 +7,8 @@ Features:
 - convert only mode
 - split pdf files
 
-UI explained
+UI : (pdfu.png)
+
 1- Folder / File path. copy/paste the path, if it is a folder it will automatically crawl folders
 
 2- Select individual files
