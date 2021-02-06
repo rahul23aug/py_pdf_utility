@@ -7,10 +7,23 @@ Features:
 - convert only mode
 - split pdf files
 
-pdfu.png parts explained
+UI explained
 1- Folder / File path. copy/paste the path, if it is a folder it will automatically crawl folders
+
 2- Select individual files
+
 3- Change where the processed files should be saved default is desktop (ensure other locations allow access)
+
 4- Load folder to select relevant files within a folder
+
 5- Merge pdf files, when selected it will convert image files to pdf and then merge
+
 6- convert only mode
+
+Build
+
+To create an executable for this file using pyinstaller 
+execute:
+
+pyinstaller --windowed --onefile <path-to-PDFU.pyw>
+
